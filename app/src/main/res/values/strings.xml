@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HomeSphere</string>
+    <string name="app_tagline">Your Home, Connected.</string>
+    <string name="nav_dashboard">Home</string>
+    <string name="nav_network">Network</string>
+    <string name="nav_automation">Automate</string>
+    <string name="nav_activity">Activity</string>
+    <string name="nav_settings">Settings</string>
+    <string name="status_disconnected">DISCONNECTED</string>
+    <string name="status_offline">OFFLINE</string>
+    <string name="status_online">ONLINE</string>
+    <string name="status_connected">CONNECTED</string>
+    <string name="status_sensor_disconnected">SENSOR DISCONNECTED</string>
+    <string name="action_back">Back</string>
+    <string name="action_notifications">Notifications</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_scan">Scan</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_add">Add</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_clear_history">Clear History</string>
+    <string name="channel_alerts_name">HomeSphere Alerts</string>
+    <string name="channel_alerts_desc">Alerts for low water, door security, router disconnection, and automations.</string>
+</resources>

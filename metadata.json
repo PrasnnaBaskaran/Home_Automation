@@ -1,0 +1,6 @@
+{
+  "name": "HomeSphere",
+  "description": "Smart Home Automation and Monitoring platform with hardware abstraction, network analyzer, Bluetooth manager, automations, and local telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
